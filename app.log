@@ -1,0 +1,96 @@
+15:12:36 info: Connected to Mongo Successfully!
+15:13:13 info: Data retrieved successfully
+15:14:06 info: Inside the post request
+15:14:06 info: Data saved successfully
+15:14:18 info: Data retrieved successfully
+15:15:28 info: Updated user data successfully
+15:15:54 info: User deleted successfully
+15:16:22 info: Data retrieved successfully
+15:17:37 info: No users found
+15:55:06 info: Connected to Mongo Successfully!
+15:55:06 info: Inside the post request
+15:55:06 info: Data saved successfully
+15:55:06 info: Updated user data successfully
+15:55:06 info: Data retrieved successfully
+15:55:06 info: Data retrieved successfully
+15:55:06 info: User deleted successfully
+15:58:55 info: Connected to Mongo Successfully!
+15:58:55 info: Inside the post request
+15:58:55 info: Data saved successfully
+15:58:55 info: Updated user data successfully
+15:58:55 info: Data retrieved successfully
+15:58:55 info: Data retrieved successfully
+15:58:55 info: User deleted successfully
+09:49:05 info: Connected to Mongo Successfully!
+09:49:05 info: Inside the post request
+09:49:05 info: Data saved successfully
+09:49:05 info: Updated user data successfully
+09:49:05 info: Data retrieved successfully
+09:49:05 info: Data retrieved successfully
+09:49:05 info: User deleted successfully
+09:49:05 info: Updated user data successfully
+09:49:05 info: User deleted successfully
+09:49:05 info: User deleted successfully
+10:10:54 info: Connected to Mongo Successfully!
+10:10:54 info: Inside the post request
+10:10:54 info: Data saved successfully
+10:10:54 info: Updated user data successfully
+10:10:54 info: Data retrieved successfully
+10:10:54 info: Data retrieved successfully
+10:10:54 info: User deleted successfully
+10:10:54 info: Updated user data successfully
+10:10:54 error: Error deleting user data
+10:10:54 error: Error deleting user data
+10:17:44 info: Connected to Mongo Successfully!
+10:17:44 info: Inside the post request
+10:17:44 info: Data saved successfully
+10:17:44 info: Updated user data successfully
+10:17:44 info: Data retrieved successfully
+10:17:44 info: Data retrieved successfully
+10:17:44 info: User deleted successfully
+10:17:44 error: Error updating user data
+10:17:44 error: Error deleting user data
+10:17:44 error: Error deleting user data
+10:20:17 info: Connected to Mongo Successfully!
+10:20:17 info: Inside the post request
+10:20:17 info: Data saved successfully
+10:20:17 info: Updated user data successfully
+10:20:17 info: Data retrieved successfully
+10:20:17 info: Data retrieved successfully
+10:20:17 info: User deleted successfully
+10:20:17 error: Error updating user data
+10:20:17 error: Error deleting user data
+10:20:17 error: Error deleting user data
+10:23:49 info: Connected to Mongo Successfully!
+10:23:49 info: Inside the post request
+10:23:49 info: Data saved successfully
+10:23:49 info: Updated user data successfully
+10:23:49 info: Data retrieved successfully
+10:23:49 info: Data retrieved successfully
+10:23:49 info: User deleted successfully
+10:23:49 error: Error updating user data
+10:23:49 error: Error deleting user data
+10:23:49 error: Error deleting user data
+10:25:35 error: Error deleting user data
+10:30:14 info: Connected to Mongo Successfully!
+10:30:14 info: Inside the post request
+10:30:14 info: Data saved successfully
+10:30:14 info: Updated user data successfully
+10:30:14 info: Data retrieved successfully
+10:30:14 info: Data retrieved successfully
+10:30:14 info: User deleted successfully
+10:30:14 error: Error updating user data
+10:30:14 error: Error deleting user data
+10:30:14 error: Error deleting user data
+10:34:57 info: Connected to Mongo Successfully!
+10:34:57 info: Inside the post request
+10:34:57 info: Data saved successfully
+10:34:57 info: Updated user data successfully
+10:34:57 info: Data retrieved successfully
+10:34:57 info: Data retrieved successfully
+10:34:57 info: User deleted successfully
+10:34:57 error: Error updating user data: Email maybe invalid
+10:34:57 error: Error updating user, need email address
+10:34:57 error: Error deleting user data: Email maybe invalid
+10:34:57 error: Error deleting user, need email address
+10:34:57 error: Error deleting user data: Email maybe invalid
